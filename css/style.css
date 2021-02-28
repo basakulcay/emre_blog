@@ -502,7 +502,11 @@ input[type="radio"]+label:before {
 	width: 100%;
 }
 
-#truth {}
+.animate__animated.animate__flip {
+	backface-visibility: visible;
+	font-weight: bold;
+	animation-name: flip;
+}
 
 #friend {
 	height: 400px;
