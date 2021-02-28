@@ -502,6 +502,13 @@ input[type="radio"]+label:before {
 	width: 100%;
 }
 
+#truth {}
+
+#friend {
+	height: 400px;
+	width: auto;
+}
+
 /* List */
 
 ol {
